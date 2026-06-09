@@ -9,3 +9,7 @@ The sahuagin are aggressive and territorial. They ambushed the party with blade 
 The [[Lizardfolk Queen]] is assembling a coalition of races to retake her homeland. Allied factions quartered at the lair include Cecaelia, Locathah, Koalinth, and [[Vyth]]'s former lizardfolk tribe. The party has been sanctioned by the [[Saltmarsh Town Council]] to join the assault.
 
 [[Thousand Teeth the Devourer]] was also recruited by the party to migrate to the coast and hunt sahuagin.
+
+## Setting lore (player-safe)
+
+Widely known across the setting as **"sea devils"** — predatory, fish-like humanoids of the deep ocean, a notorious danger to coastal fishing communities like [[Saltmarsh]]. (Ghosts of Saltmarsh keys nearly all sahuagin specifics inside GM-side encounter and stat-block sections; only this general reputation is player-safe.)

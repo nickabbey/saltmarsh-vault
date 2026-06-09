@@ -15,10 +15,10 @@ The cove is not yet theirs to occupy; it must first be cleared of its current ha
 
 ## Status
 
-- [ ] Clear the trapped vampire
-- [ ] Disarm or dispel the three warded doors in the hexagonal basement (1 necromancy, 2 abjuration)
-- [ ] Survey whatever lies beyond the fireplace passage
-- [ ] Formally claim the site with the council once it is secure
+- [x] Clear the trapped vampire
+- [x] Disarm or dispel the three warded doors in the hexagonal basement (1 necromancy, 2 abjuration)
+- [x] Survey whatever lies beyond the fireplace passage
+- [x] Formally claim the site with the council once it is secure
 
 ## References
 

@@ -1,7 +1,7 @@
 {
   "//": "Worklist + rewrite map for campaign images. The image binaries are gitignored and never published. For each entry, reverse-image-search the local file at content/<key> to find a STABLE external image URL, then set 'url'. url=null => the embed is omitted on the published site with an '(image pending)' placeholder. 'usedIn' lists the notes that embed it. No URL is validated or filtered — that's on you.",
   "images": {
-    "map-01.01-saltmarsh.png": { "url": null, "usedIn": ["Saltmarsh.md"] },
+    "map-01.01-saltmarsh.png": { "url": "https://5e.tools/img/adventure/GoS/003-01-pc.webp", "usedIn": ["Saltmarsh.md"], "note": "CANDIDATE (from /flesh-out): GoS Map 1.1 Village of Saltmarsh, official PLAYER version (no DM annotations). Vet hotlink stability before relying on it." },
     "Gellan_Primewater.jpg": { "url": null, "usedIn": ["Gellan Primewater.md"] },
     "The_World_of_Oerth.jpg": { "url": null, "usedIn": ["Oerth.md"] },
     "Flanaess_-_Greyhawk_2.jpeg": { "url": null, "usedIn": ["Oerth.md"] },
