@@ -13,9 +13,10 @@ content/**/*.jpeg
 content/**/*.gif
 content/**/*.webp
 
-# --- Obsidian per-machine state (vault lives under content/) ---
-content/.obsidian/workspace.json
-content/.obsidian/workspace-mobile.json
+# --- Obsidian per-machine state (the live vault is content/; root .obsidian is defunct) ---
+/.obsidian/
+**/workspace.json
+**/workspace-mobile.json
 content/.obsidian/plugins/
 
 # --- Misc ---
