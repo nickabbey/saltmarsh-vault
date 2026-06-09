@@ -1,0 +1,1 @@
+Skerrin (LE male human assassin) is tall, lean, tan, with short silver hair, he speaks in precise, measured statements of a man who has a keen eye for detail. He is dispassionate and takes a protective stance toward Anders. 

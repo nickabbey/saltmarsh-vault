@@ -1,0 +1,27 @@
+Before we settled in for the evening, we discussed our plans like civilized people; which is to say, I laid out the obvious course and the others eventually agreed. We would help the [[Lizardfolk Queen]] reclaim her homeland, naturally. One does not simply turn down a queen's request for aid, particularly when one has already demonstrated such exceptional diplomatic prowess. But I'm no fool. Committing [[Saltmarsh]] to a war is the council's prerogative, not mine, however much they might benefit from my counsel. We'd have our druid memorize Sending come morning and put the question to the [[Saltmarsh Town Council]].
+
+The matter of the [[Thousand Teeth the Devourer|thousand teeth]] eggs proved more delicate. I'll confess my threat to destroy them during negotiations may have unsettled some of my companions. They don't always appreciate the finer points of leverage. But cooler heads prevailed (which is to say mine did) and we agreed to keep one or two while relocating the rest far from the lizardfolk domain, as originally promised. A knight's word is his bond, after all.
+
+Sleep did not come easily for all of us. [[Vyth]] in particular was troubled by some manner of dark premonition. Someone he owes a debt to, in danger, though the details remained frustratingly vague. The presence of his former tribe in these very caverns only added to the unease. There's something there we haven't untangled yet, and I don't care for loose threads.
+
+Come morning, we set about our intelligence gathering. One of our druids conjured an owl familiar. We could only hope the lizardfolk wouldn't mistake it for a light snack. I cast Tongues on the caster so he could comprehend whatever the creature overheard, and the owl crept into the cavern where [[Vyth]]'s old tribe was quartered. Subtle work, if I do say so. The owl caught mention of a "trump card," which we took as confirmation that something was indeed afoot. We considered asking the Queen to look into it while we handled the egg relocation.
+
+Meanwhile, I composed a message for [[Gellan Primewater]] via Sending. Brief, as the spell demands, yet I flatter myself not when I comment upon the absolute poetry of this precisely worded masterpiece:
+
+*"Returned shipment. Befriended lizardfolk, who will assault sahuagin soon. They will be good northern border vassals if we help. Shall we assist or return?"*
+
+Primewater's response was encouraging. He'd need to consult the council, but his own vote was in our favor. A man of some sense, Primewater, when properly guided.
+
+With that settled, we turned to the pressing matter of the thousand teeth eggs. Four days or fewer until they hatch, by my earlier study of the creatures. Time is not our ally here, and we must move quickly.
+
+Merely an hour later, before we'd even spoken with the Queen, word arrived: the council had sanctioned our participation. Swift decision-making. I'd like to think my message conveyed the urgency and opportunity with such clarity that even a council of merchants could see the obvious. We finalized our request and sought an audience with the [[Lizardfolk Queen]], hoping to arrange a diplomatic meeting with [[Vyth]]'s old tribe. Specifically, we wanted her to require them to submit to a Zone of Truth so we could ask about their prisoner.
+
+We informed her attendants that we were ready to answer her call to join the fight, and they told us she wished to speak with us regardless. When we arrived, the situation had already escalated. [[Vyth]]'s former tribe was assembled, and they had accused us of spying on them.
+
+Now, I will admit that our owl's reconnaissance was not entirely above board. But accusations require proof, and when the Queen asked me, the paladin, to swear I hadn't spied, I told the truth: I did not spy. I cast a spell to assist the druid who sent the owl. An important distinction, and a truthful one. The matter was settled, and all parties agreed to a Zone of Truth the following morning.
+
+This left us with a logistical problem. The eggs needed burying and the diplomacy needed attending, and both demanded urgency. Rather than let circumstance split us, we split ourselves by choice. [[Kaldor]], [[Shade]], and I would handle the egg relocation while the rest remained to represent us and prepare for the summit. Our intent was to return swiftly, but if the errand ran long, our companions could hold the line.
+
+We set out post haste, and between our combined skills we made quick work of it. We buried the eggs in locations with plenty of [[Bullywugs]] to feed on. Poetic, really; the wretched little creatures finally serving a useful purpose. As we placed the last clutch right on the edge of bullywug territory, a large patrol passed dangerously close. We barely got to cover in time. A fight would have cost us hours we didn't have, so discretion won out over my preference for a rematch with those slimy little bastards.
+
+We returned before dark. Our friends caught us up on their day of waiting and strategy. The key question: how to handle the Zone of Truth when the accusation of eavesdropping was, let us say, not entirely without merit. Our paladin had a plan. The trick is positioning. If we all stand right next to him when he casts the spell, we control the field. Simple, elegant, and just the sort of thing one can rely on a knight of my caliber to devise. We took a long rest, preparing for what promises to be a delicate morning.

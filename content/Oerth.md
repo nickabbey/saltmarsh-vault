@@ -1,0 +1,2 @@
+Flanaess is the eastern part of the continent of Oerik, one of the four continents of the fictional world of Oerth.
+![[The_World_of_Oerth.jpg]]![[Flanaess_-_Greyhawk_2.jpeg]]![[Flanaess_-_Greyhawk_2-_Area_of_the_Kingdom_of_Keoland.jpeg]]

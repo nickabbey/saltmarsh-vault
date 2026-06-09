@@ -1,0 +1,12 @@
+{
+  "//": "Worklist + rewrite map for campaign images. The image binaries are gitignored and never published. For each entry, reverse-image-search the local file at content/<key> to find a STABLE external image URL, then set 'url'. url=null => the embed is omitted on the published site with an '(image pending)' placeholder. 'usedIn' lists the notes that embed it. No URL is validated or filtered — that's on you.",
+  "images": {
+    "map-01.01-saltmarsh.png": { "url": null, "usedIn": ["Saltmarsh.md"] },
+    "Gellan_Primewater.jpg": { "url": null, "usedIn": ["Gellan Primewater.md"] },
+    "The_World_of_Oerth.jpg": { "url": null, "usedIn": ["Oerth.md"] },
+    "Flanaess_-_Greyhawk_2.jpeg": { "url": null, "usedIn": ["Oerth.md"] },
+    "Flanaess_-_Greyhawk_2-_Area_of_the_Kingdom_of_Keoland.jpeg": { "url": null, "usedIn": ["Oerth.md"] },
+    "004-01-04.png": { "url": null, "usedIn": ["Captain Xendros.md"] },
+    "Saurin.png.png": { "url": null, "usedIn": ["Sauriv (Lizrdfolk Warchief).md"] }
+  }
+}

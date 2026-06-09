@@ -1,0 +1,1 @@
+Thousand Teeth is an ancient crocodilian nightmare that has served as the apex predator in the swamps near Saltmarsh for as long as anyone can remember. This monster recently fought a number of lizardfolk.

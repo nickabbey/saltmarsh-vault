@@ -1,0 +1,71 @@
+name: Deploy Saltmarsh (Quartz) to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write # read to build; write to advance the last-publish tag
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0 # full history for changelog diff + git dates
+          fetch-tags: true # need the last-publish tag for the changelog
+      - uses: actions/setup-node@v6
+        with:
+          node-version-file: .nvmrc # honor the repo's pinned Node version
+      - name: Cache npm
+        uses: actions/cache@v5
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: ${{ runner.os }}-node-
+      - name: Cache Quartz plugins
+        uses: actions/cache@v5
+        with:
+          path: .quartz/plugins
+          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
+          restore-keys: ${{ runner.os }}-plugins-
+      - name: Install dependencies
+        run: npm ci
+      - name: Install Quartz plugins
+        run: npx quartz plugin install
+      - name: Pre-publish (image rewrite + changelog)
+        run: node scripts/prepublish.mjs
+      - name: Build Quartz
+        run: npx quartz build
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  tag:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Advance last-publish tag to the deployed commit
+        run: |
+          git tag -f last-publish "$GITHUB_SHA"
+          git push -f origin "refs/tags/last-publish"

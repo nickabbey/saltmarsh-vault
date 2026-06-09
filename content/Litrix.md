@@ -1,0 +1,1 @@
+A lizardfolk leader encountered by [[Shade]] while exploring the [[Lizardfolk Camp]]. Litrix leads a small group of lizardfolk warriors. Despite not sharing a language, Shade earned Litrix's respect by sharing a blade sharpening technique, and the two developed an understanding over drinks.

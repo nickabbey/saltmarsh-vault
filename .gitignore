@@ -1,0 +1,24 @@
+# --- Quartz: build artifacts, deps, plugin cache (not committed) ---
+node_modules/
+public/
+.quartz/
+.quartz-cache/
+tsconfig.tsbuildinfo
+prof/
+
+# --- Campaign images: never commit binaries (rewritten to external URLs at build) ---
+content/**/*.png
+content/**/*.jpg
+content/**/*.jpeg
+content/**/*.gif
+content/**/*.webp
+
+# --- Obsidian per-machine state (vault lives under content/) ---
+content/.obsidian/workspace.json
+content/.obsidian/workspace-mobile.json
+content/.obsidian/plugins/
+
+# --- Misc ---
+.trash/
+.DS_Store
+.claude/settings.local.json

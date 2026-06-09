@@ -1,0 +1,1 @@
+The leader of the newly established mining operation in Saltmarsh is an iron-willed dwarven woman named Manistrad (LN female dwarf [veteran](https://www.dndbeyond.com/monsters/17045-veteran)). She runs the mining outfit from a small office near the edge of town.

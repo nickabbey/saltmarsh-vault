@@ -1,0 +1,1 @@
+A triton NPC allied with the party. Oceanus may represent another faction in the coalition assembling at the [[Lizardfolk Camp]] to fight the [[Sahuagin]]. Explored the lair alongside [[Perrin]] and later [[Shade]], eventually reuniting with the rest of the party in the Pooling Room.
